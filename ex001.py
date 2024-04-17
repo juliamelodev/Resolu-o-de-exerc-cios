@@ -1,1 +1,2 @@
-print('Olá, GIT :)')
+msg = ('Hello, world:)')
+print(msg)
